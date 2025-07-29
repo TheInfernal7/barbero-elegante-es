@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				barbershop: {
+					gold: 'hsl(var(--barbershop-gold))',
+					dark: 'hsl(var(--barbershop-dark))',
+					medium: 'hsl(var(--barbershop-medium))',
+					light: 'hsl(var(--barbershop-light))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
